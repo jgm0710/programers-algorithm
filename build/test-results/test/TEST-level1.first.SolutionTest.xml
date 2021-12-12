@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="level1.first.SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-12T05:54:46" hostname="JGM-MacBook-Air.local" time="0.066">
-  <properties/>
-  <testcase name="[1] [leo, kiki, eden], [eden, kiki], leo" classname="level1.first.SolutionTest" time="0.05"/>
-  <testcase name="[2] [marina, josipa, nikola, vinko, filipa], [josipa, filipa, marina, nikola], vinko" classname="level1.first.SolutionTest" time="0.006"/>
-  <testcase name="[3] [mislav, stanko, mislav, ana], [stanko, ana, mislav], mislav" classname="level1.first.SolutionTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
