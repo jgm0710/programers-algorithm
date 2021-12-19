@@ -1,12 +1,2 @@
-i = 0
-solutionResult[i] = 3
-i = 1
-solutionResult[i] = 5
-i = 0
-solutionResult[i] = 1
-i = 1
-solutionResult[i] = 6
-i = 0
-solutionResult[i] = 1
-i = 1
-solutionResult[i] = 1
+
+abc = aaa
