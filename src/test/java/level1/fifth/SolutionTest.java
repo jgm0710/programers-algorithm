@@ -19,7 +19,7 @@ class SolutionTest {
         //given
 
         //when
-        String solutionResult = new Solution().solution(newName);
+        String solutionResult = new Solution2().solution(newName);
 
         //then
         assertEquals(result, solutionResult);
