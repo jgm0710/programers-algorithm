@@ -19,11 +19,7 @@ public class Solution2 {
         if (step6.length() <= 2) {
             String lastString = step6.substring(step6.length() - 1);
 
-            StringBuilder stringBuilder = new StringBuilder(step6);
-            for (int i = step6.length(); i < 3; i++) {
-                stringBuilder.append(lastString);
-            }
-            return stringBuilder.toString();
+            return step6 + lastString.repeat(3 - step6.length());
         }
 
         return step6;
